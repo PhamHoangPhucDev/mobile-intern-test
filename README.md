@@ -15,4 +15,3 @@ Gồm 3 chức năng : chuyển đổi tiền tệ ,
 3. Tìm số còn thiếu trong mảng
 
 Được viết bằng ngôn ngữ dart và framework Flutter
-Đã build APK chỉ cần việc tải ứng dụng app-test.apk đã có sẵn trong thư mục để sử dụng
